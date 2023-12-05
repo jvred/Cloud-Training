@@ -2,6 +2,7 @@
 
 # VPC Architecture
 <img src="vpc_network_architecture.png">
+![Uploading image.png…]()
 
 # Compute
 # Instance/ Virtual Machine
